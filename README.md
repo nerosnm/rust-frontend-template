@@ -1,5 +1,7 @@
 # Rust Frontend Template
 
+![Node.js](https://github.com/nerosnm/rust-frontend-template/workflows/Node.js/badge.svg)
+
 This is a template for a frontend web application written in Rust, using [Yew](https://yew.rs) and 
 bundled with [webpack](https://webpack.js.org).
 
